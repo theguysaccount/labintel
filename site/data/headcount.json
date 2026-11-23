@@ -1,0 +1,247 @@
+{
+ "_note": "Public headcount only. Revelio Labs series are LinkedIn-derived quarterly estimates (one method across labs, so trends are comparable even where levels disagree with press figures). Press figures are single points with their source. Nothing is interpolated.",
+ "series": {
+  "Anthropic": {
+   "source": "Revelio Labs (LinkedIn-derived), data as of Mar 2026",
+   "url": "https://www.reveliolabs.com/companies/anthropic-pbc/employees",
+   "points": [
+    [
+     "2023-06-30",
+     546
+    ],
+    [
+     "2023-09-30",
+     613
+    ],
+    [
+     "2023-12-31",
+     718
+    ],
+    [
+     "2024-03-31",
+     867
+    ],
+    [
+     "2024-06-30",
+     1022
+    ],
+    [
+     "2024-09-30",
+     1163
+    ],
+    [
+     "2024-12-31",
+     1324
+    ],
+    [
+     "2025-03-31",
+     1588
+    ],
+    [
+     "2025-06-30",
+     1894
+    ],
+    [
+     "2025-09-30",
+     2435
+    ],
+    [
+     "2025-12-31",
+     3089
+    ],
+    [
+     "2026-03-31",
+     3950
+    ]
+   ]
+  },
+  "Google DeepMind": {
+   "source": "Revelio Labs (LinkedIn-derived), data as of Mar 2026",
+   "url": "https://www.reveliolabs.com/companies/deepmind/employees",
+   "points": [
+    [
+     "2023-06-30",
+     1917
+    ],
+    [
+     "2023-09-30",
+     1995
+    ],
+    [
+     "2023-12-31",
+     2068
+    ],
+    [
+     "2024-03-31",
+     2126
+    ],
+    [
+     "2024-06-30",
+     2410
+    ],
+    [
+     "2024-09-30",
+     2517
+    ],
+    [
+     "2024-12-31",
+     2914
+    ],
+    [
+     "2025-03-31",
+     3008
+    ],
+    [
+     "2025-06-30",
+     3276
+    ],
+    [
+     "2025-09-30",
+     3419
+    ],
+    [
+     "2025-12-31",
+     3678
+    ],
+    [
+     "2026-03-31",
+     4013
+    ]
+   ]
+  },
+  "OpenAI": {
+   "source": "Press: ~770 at the Nov 2023 board crisis (Wikipedia); ~4,500 in Mar 2026 and an 8,000 end-2026 target (Financial Times via Semafor/Engadget)",
+   "url": "https://www.semafor.com/article/03/22/2026/openai-to-double-headcount",
+   "points": [
+    [
+     "2023-11-20",
+     770
+    ],
+    [
+     "2026-03-21",
+     4500
+    ]
+   ],
+   "target": [
+    "2026-12-31",
+    8000
+   ]
+  }
+ },
+ "snapshots": [
+  {
+   "lab": "xAI",
+   "value": "~1,000+",
+   "date": "2026-06",
+   "source": "presenc.ai AI lab headcount, Jun 2026",
+   "url": "https://presenc.ai/research/ai-lab-employee-headcount-2026"
+  },
+  {
+   "lab": "Meta",
+   "value": "~3,000+ (FAIR + GenAI; MSL not broken out)",
+   "date": "2026-06",
+   "source": "presenc.ai",
+   "url": "https://presenc.ai/research/ai-lab-employee-headcount-2026"
+  },
+  {
+   "lab": "Thinking Machines",
+   "value": "~150+",
+   "date": "2026-06",
+   "source": "presenc.ai",
+   "url": "https://presenc.ai/research/ai-lab-employee-headcount-2026"
+  },
+  {
+   "lab": "Mistral",
+   "value": "~250\u2013783 (sources disagree)",
+   "date": "2026",
+   "source": "presenc.ai; Longterm Wiki",
+   "url": "https://www.longtermwiki.com/wiki/E640"
+  },
+  {
+   "lab": "SSI",
+   "value": "~50\u2013100",
+   "date": "2026-06",
+   "source": "presenc.ai",
+   "url": "https://presenc.ai/research/ai-lab-employee-headcount-2026"
+  },
+  {
+   "lab": "DeepSeek",
+   "value": "~250+",
+   "date": "2026-06",
+   "source": "presenc.ai",
+   "url": "https://presenc.ai/research/ai-lab-employee-headcount-2026"
+  },
+  {
+   "lab": "Moonshot",
+   "value": "~250+",
+   "date": "2026-06",
+   "source": "presenc.ai",
+   "url": "https://presenc.ai/research/ai-lab-employee-headcount-2026"
+  }
+ ],
+ "latest": {
+  "OpenAI": 4500,
+  "Anthropic": 3950,
+  "Google DeepMind": 4013,
+  "xAI": 1000,
+  "Meta": 3000,
+  "Thinking Machines": 150,
+  "Mistral": 400,
+  "SSI": 75,
+  "DeepSeek": 250,
+  "Moonshot": 250
+ },
+ "roster_counts": {
+  "method": "Same 16 seed accounts, same bio rule, run twice",
+  "dates": [
+   "2026-09-01",
+   "2026-10-14"
+  ],
+  "counts": {
+   "OpenAI": [
+    362,
+    354
+   ],
+   "Anthropic": [
+    208,
+    211
+   ],
+   "Google DeepMind": [
+    200,
+    193
+   ],
+   "Meta": [
+    58,
+    57
+   ],
+   "xAI": [
+    31,
+    26
+   ],
+   "Thinking Machines": [
+    24,
+    26
+   ],
+   "Mistral": [
+    8,
+    9
+   ],
+   "SSI": [
+    3,
+    3
+   ],
+   "DeepSeek": [
+    3,
+    3
+   ],
+   "Moonshot": [
+    2,
+    2
+   ],
+   "Qwen / Alibaba": [
+    1,
+    1
+   ]
+  }
+ }
+}

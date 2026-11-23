@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-07",
+ "labs": {
+  "Anthropic": {
+   "open": 675,
+   "frontier": 11,
+   "safeguards": 45,
+   "security": 48,
+   "pct_frontier": 1.6,
+   "pct_safeguards": 6.7,
+   "pct_security": 7.1,
+   "research_open": 74,
+   "frontier_in_research": 7,
+   "pct_of_research": 9.5
+  },
+  "OpenAI": {
+   "open": 820,
+   "frontier": 25,
+   "safeguards": 21,
+   "security": 22,
+   "pct_frontier": 3.0,
+   "pct_safeguards": 2.6,
+   "pct_security": 2.7,
+   "research_open": 52,
+   "frontier_in_research": 17,
+   "pct_of_research": 32.7
+  },
+  "xAI": {
+   "open": 303,
+   "frontier": 0,
+   "safeguards": 4,
+   "security": 12,
+   "pct_frontier": 0.0,
+   "pct_safeguards": 1.3,
+   "pct_security": 4.0
+  },
+  "Thinking Machines": {
+   "open": 58,
+   "frontier": 1,
+   "safeguards": 2,
+   "security": 4,
+   "pct_frontier": 1.7,
+   "pct_safeguards": 3.4,
+   "pct_security": 6.9,
+   "research_open": 20,
+   "frontier_in_research": 1,
+   "pct_of_research": 5.0
+  },
+  "Google DeepMind": {
+   "open": 92,
+   "frontier": null,
+   "note": "Google Careers (robots-disallowed beyond page 1): 92 openings; 1 of the 20 visible is frontier safety ('Technical Program Manager, Frontier Safety, Alignment and Collaboration')."
+  }
+ },
+ "frontier_roles": {
+  "Anthropic": [
+   [
+    "Anthropic Fellows Program, AI Safety & Security",
+    "https://job-boards.greenhouse.io/anthropic/jobs/5183044008"
+   ],
+   [
+    "Cyber Evaluations Engineer",
+    "https://job-boards.greenhouse.io/anthropic/jobs/5406367008"
+   ],
+   [
+    "Enforcement Analyst, Agentic Alignment",
+    "https://job-boards.greenhouse.io/anthropic/jobs/5462893008"
+   ],
+   [
+    "Research Engineer / Scientist, Alignment",
+    "https://job-boards.greenhouse.io/anthropic/jobs/4631822008"
+   ],
+   [
+    "Research Engineer, Interpretability",
+    "https://job-boards.greenhouse.io/anthropic/jobs/4980430008"
+   ],
+   [
+    "Research Manager, Biological Safety",
+    "https://job-boards.greenhouse.io/anthropic/jobs/5412944008"
+   ],
+   [
+    "Research Scientist, Interpretability",
+    "https://job-boards.greenhouse.io/anthropic/jobs/4980427008"
+   ],
+   [
+    "Research Scientist/Engineer, Biological Safety",
+    "https://job-boards.greenhouse.io/anthropic/jobs/5066977008"
+   ],
+   [
+    "Technical Program Manager, Agent Safety & Security",
+    "https://job-boards.greenhouse.io/anthropic/jobs/5460216008"
+   ],
+   [
+    "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
+    "https://job-boards.greenhouse.io/anthropic/jobs/4610158008"
+   ],
+   [
+    "[Expression of Interest] Research Manager, Interpretability",
+    "https://job-boards.greenhouse.io/anthropic/jobs/4980436008"
+   ]
+  ],
+  "OpenAI": [
+   [
+    "Counsel, AI Safety & Cyber Incident Response",
+    "https://jobs.ashbyhq.com/openai/48bd347f-c799-48ac-aa5b-1b0dfbff90f7"
+   ],
+   [
+    "Data Scientist, Preparedness",
+    "https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f"
+   ],
+   [
+    "Data Scientist, Safety",
+    "https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683"
+   ],
+   [
+    "Engineering Manager, Preparedness",
+    "https://jobs.ashbyhq.com/openai/c857b732-3556-4b65-8ae9-f64b92091729"
+   ],
+   [
+    "Research Program Manager, Frontier Assurance",
+    "https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa"
+   ],
+   [
+    "Research Program Manager, Safety Systems",
+    "https://jobs.ashbyhq.com/openai/d769a04e-c300-454a-8c68-1c93d04a6bb6"
+   ],
+   [
+    "Research Scientist / Research Engineer, Safety + Alignment, Search",
+    "https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101"
+   ],
+   [
+    "Researcher, Agent Safety, Oversight and System Mitigations",
+    "https://jobs.ashbyhq.com/openai/7d49af15-623e-476a-9d35-831c5c9c9bf5"
+   ],
+   [
+    "Researcher, Agent Safety, Training and Evaluations",
+    "https://jobs.ashbyhq.com/openai/e1cc86e5-b56c-49c0-a4a6-8cf766c27281"
+   ],
+   [
+    "Researcher, Alignment",
+    "https://jobs.ashbyhq.com/openai/941bad28-7abe-43c7-b20a-2bc7e5b3c6e8"
+   ],
+   [
+    "Researcher, Alignment CoT Monitorability",
+    "https://jobs.ashbyhq.com/openai/82492010-ea96-449d-9949-b726b1a22616"
+   ],
+   [
+    "Researcher, Alignment Interpretability",
+    "https://jobs.ashbyhq.com/openai/d4983a0f-1004-4f27-94b3-e1a38c168c1a"
+   ],
+   [
+    "Researcher, Frontier Cybersecurity Risks",
+    "https://jobs.ashbyhq.com/openai/66e76c14-bb6e-4e26-a333-744bbe35abbb"
+   ],
+   [
+    "Researcher, Frontier Risk Mitigations",
+    "https://jobs.ashbyhq.com/openai/ac371165-c2b3-4289-9e97-0abc68287b91"
+   ],
+   [
+    "Researcher, Interpretability",
+    "https://jobs.ashbyhq.com/openai/c44268f1-717b-4da3-9943-2557f7d739f0"
+   ],
+   [
+    "Researcher, Misalignment Monitoring Lead",
+    "https://jobs.ashbyhq.com/openai/c955617d-f465-4f7a-b57c-98284fd14777"
+   ],
+   [
+    "Researcher, Multimodal Safety",
+    "https://jobs.ashbyhq.com/openai/ceef522f-2ee2-49c7-b3a0-2a227e759a72"
+   ],
+   [
+    "Researcher, Recursive Self-Improvement Safety",
+    "https://jobs.ashbyhq.com/openai/5a9e68f6-30b5-40c0-aa8c-c822c59140d0"
+   ],
+   [
+    "Researcher, Safety - Frontier Assurance",
+    "https://jobs.ashbyhq.com/openai/5c5eb021-636c-4bea-965a-66fd1f6ffe8c"
+   ],
+   [
+    "Researcher, Safety Oversight",
+    "https://jobs.ashbyhq.com/openai/9b11373c-1643-4ea6-bbcd-033d5b8a0d3e"
+   ],
+   [
+    "Researcher, Safety Training",
+    "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493"
+   ],
+   [
+    "Safety Transparency Editor, Safety Systems",
+    "https://jobs.ashbyhq.com/openai/a6a421a5-0d3d-4f2f-9767-7c25b6e7d2fc"
+   ],
+   [
+    "Software Engineer, AI Safety",
+    "https://jobs.ashbyhq.com/openai/b9dee2a0-9bb3-447e-9bce-2b1bed784e5b"
+   ],
+   [
+    "Software Engineer, API Safety",
+    "https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145"
+   ],
+   [
+    "Software Engineer, Safety Engineering",
+    "https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5"
+   ]
+  ],
+  "xAI": [],
+  "Thinking Machines": [
+   [
+    "Research, Safety",
+    "https://jobs.ashbyhq.com/ThinkingMachines/01aba71c-b55f-4df5-b803-dc545e6a9434"
+   ]
+  ]
+ },
+ "sources": {
+  "Anthropic": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+  "OpenAI": "https://api.ashbyhq.com/posting-api/job-board/openai",
+  "xAI": "https://boards-api.greenhouse.io/v1/boards/xai/jobs",
+  "Thinking Machines": "https://api.ashbyhq.com/posting-api/job-board/thinkingmachines",
+  "Google DeepMind": "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"
+ },
+ "field_census": {
+  "source": "Stephen McAleese, 'AI Safety Field Growth Analysis 2025' (LessWrong), team pages + LinkedIn + research output",
+  "url": "https://www.lesswrong.com/posts/8QjAnWyuE9fktPRgS/ai-safety-field-growth-analysis-2025",
+  "technical_fte": {
+   "Anthropic": 40,
+   "Google DeepMind": 30,
+   "OpenAI": 15,
+   "Meta": 5
+  },
+  "governance_fte": {
+   "Google DeepMind": 10,
+   "OpenAI": 10
+  },
+  "field": {
+   "technical_2022": 300,
+   "technical_2025": 600,
+   "nontech_2022": 100,
+   "nontech_2025": 500,
+   "growth": "~21%/yr technical FTEs"
+  },
+  "caveat": "Counts only teams working full-time on safety (Anthropic's figure is its interpretability team alone); author says it undercounts part-time safety work."
+ },
+ "history": [
+  {
+   "date": "2026-10-14",
+   "Anthropic": {
+    "open": 644,
+    "frontier": 9
+   },
+   "OpenAI": {
+    "open": 806,
+    "frontier": 21
+   },
+   "xAI": {
+    "open": 304,
+    "frontier": 0
+   },
+   "Thinking Machines": {
+    "open": 55,
+    "frontier": 1
+   },
+   "Google DeepMind": {
+    "open": 92,
+    "frontier": null
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "Anthropic": {
+    "open": 675,
+    "frontier": 11
+   },
+   "OpenAI": {
+    "open": 820,
+    "frontier": 25
+   },
+   "xAI": {
+    "open": 303,
+    "frontier": 0
+   },
+   "Thinking Machines": {
+    "open": 58,
+    "frontier": 1
+   },
+   "Google DeepMind": {
+    "open": 92,
+    "frontier": null
+   }
+  }
+ ]
+}

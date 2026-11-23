@@ -1,0 +1,367 @@
+{
+ "moves": [
+  {
+   "date": "2026-06-18",
+   "handle": "belindazli",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": true,
+   "what": "joins Anthropic interpretability & alignment",
+   "url": "https://x.com/belindazli/status/2067437583815381026"
+  },
+  {
+   "date": "2026-06-18",
+   "handle": "markchen90",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": false,
+   "what": "Noam Shazeer joins OpenAI to lead architecture research (announced by Mark Chen)",
+   "url": "https://x.com/markchen90/status/2067402457500758375"
+  },
+  {
+   "date": "2026-06-24",
+   "handle": "arthurconmy",
+   "frm": "Google DeepMind",
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": true,
+   "what": "leaves GDM after 2.5 years to align upcoming models at Anthropic",
+   "url": "https://x.com/ArthurConmy/status/2069820098890674334"
+  },
+  {
+   "date": "2026-07-02",
+   "handle": "clippocampus",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": true,
+   "what": "joins Anthropic alignment training",
+   "url": "https://x.com/clippocampus/status/2072486747628245382"
+  },
+  {
+   "date": "2026-07-06",
+   "handle": "ledermanharvey",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": true,
+   "what": "joins Anthropic alignment & character",
+   "url": "https://x.com/LedermanHarvey/status/2074077795395744142"
+  },
+  {
+   "date": "2026-07-09",
+   "handle": "fidjissimo",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "leave",
+   "safety": false,
+   "what": "CEO of Applications steps back to part-time advisor (health)",
+   "url": "https://x.com/fidjissimo/status/2075353170927304861"
+  },
+  {
+   "date": "2026-07-13",
+   "handle": "t_blom",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": false,
+   "what": "leaves YC to join Anthropic compute 'as we enter the early stages of RSI'",
+   "url": "https://x.com/t_blom/status/2076580921398931788"
+  },
+  {
+   "date": "2026-08-05",
+   "handle": "demishassabis",
+   "frm": "Google DeepMind",
+   "to": "Google DeepMind",
+   "kind": "role",
+   "safety": false,
+   "what": "moves to Chair of GDM / Chief Scientist of Alphabet; Koray Kavukcuoglu leads GDM",
+   "url": "https://x.com/demishassabis/status/2085034334914769203"
+  },
+  {
+   "date": "2026-08-11",
+   "handle": "bradlightcap",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "leave",
+   "safety": false,
+   "what": "COO leaves OpenAI to start something new",
+   "url": "https://x.com/bradlightcap/status/2087211567012032862"
+  },
+  {
+   "date": "2026-08-12",
+   "handle": "humford",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": false,
+   "what": "joins OpenAI Strategic Futures (frontier AI policy)",
+   "url": "https://x.com/humford/status/2087610244046430640"
+  },
+  {
+   "date": "2026-08-14",
+   "handle": "divyasiddarth",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": true,
+   "what": "joins Anthropic alignment team: 'we're really playing for keeps now'",
+   "url": "https://x.com/divyasiddarth/status/2088301017456849112"
+  },
+  {
+   "date": "2026-08-14",
+   "handle": "kylekosic",
+   "frm": "xAI",
+   "to": null,
+   "kind": "leave",
+   "safety": false,
+   "what": "leaves xAI for River AI",
+   "url": "https://x.com/kylekosic/status/2088299507255759025"
+  },
+  {
+   "date": "2026-08-22",
+   "handle": "joshaengels",
+   "frm": "Google DeepMind",
+   "to": "METR",
+   "kind": "leave",
+   "safety": true,
+   "what": "leaves GDM AGI safety team for METR (posted 12 Sep: 'three weeks ago') \u2014 'we don't have things under control'",
+   "url": "https://x.com/JoshAEngels/status/2098890712830169115"
+  },
+  {
+   "date": "2026-09-01",
+   "handle": "xf1280",
+   "frm": "Meta",
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": false,
+   "what": "leaves Meta for Anthropic",
+   "url": "https://x.com/xf1280/status/2094707848748179891"
+  },
+  {
+   "date": "2026-09-02",
+   "handle": "matthewclifford",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": false,
+   "what": "joins Anthropic as MD, International Affairs",
+   "url": "https://x.com/matthewclifford/status/2095022288882065907"
+  },
+  {
+   "date": "2026-09-09",
+   "handle": "openai",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": true,
+   "what": "Paul Christiano joins OpenAI Foundation board + Safety & Security Committee",
+   "url": "https://x.com/OpenAI/status/2097741659509584091"
+  },
+  {
+   "date": "2026-09-14",
+   "handle": "bilalchughtai_",
+   "frm": "Google DeepMind",
+   "to": null,
+   "kind": "leave",
+   "safety": true,
+   "what": "resigns from GDM AGI safety: 'AI has the potential to kill us all'",
+   "url": "https://x.com/bilalchughtai_/status/2099592489023734085"
+  },
+  {
+   "date": "2026-09-14",
+   "handle": "chowdhuryneil",
+   "frm": null,
+   "to": "Thinking Machines",
+   "kind": "join",
+   "safety": true,
+   "what": "joins Thinking Machines safety & alignment",
+   "url": "https://x.com/ChowdhuryNeil/status/2099536168350273669"
+  },
+  {
+   "date": "2026-09-14",
+   "handle": "daveholtz",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": false,
+   "what": "leaves Columbia for a year to lead AGI economics at OpenAI",
+   "url": "https://x.com/daveholtz/status/2099556456152416269"
+  },
+  {
+   "date": "2026-09-16",
+   "handle": "huang_sihao",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": false,
+   "what": "joins Anthropic as Head of Frontier Compute Strategy",
+   "url": "https://x.com/Huang_Sihao/status/2100013578078261463"
+  },
+  {
+   "date": "2026-09-21",
+   "handle": "iansilber",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "leave",
+   "safety": false,
+   "what": "Head of Design leaves OpenAI",
+   "url": "https://x.com/iansilber/status/2102078708983181447"
+  },
+  {
+   "date": "2026-09-23",
+   "handle": "eric_luhman1",
+   "frm": null,
+   "to": "xAI",
+   "kind": "join",
+   "safety": false,
+   "what": "joins SpaceXAI",
+   "url": "https://x.com/eric_luhman1/status/2102802589305946282"
+  },
+  {
+   "date": "2026-09-26",
+   "handle": "aaron_defazio",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": false,
+   "what": "joins OpenAI as Member of Technical Staff",
+   "url": "https://x.com/aaron_defazio/status/2103891693636575283"
+  },
+  {
+   "date": "2026-09-29",
+   "handle": "benhawkes",
+   "frm": null,
+   "to": "Anthropic",
+   "kind": "join",
+   "safety": true,
+   "what": "joins Anthropic to lead the Frontier Red Team's cybersecurity mission",
+   "url": "https://x.com/benhawkes/status/2105011030334263473"
+  },
+  {
+   "date": "2026-10-01",
+   "handle": "tomekkorbak",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "fired",
+   "safety": true,
+   "what": "fired with @j_asminewang and @balesni; walked out by security; was METR's technical contact",
+   "url": "https://x.com/tomekkorbak/status/2108266859397283953"
+  },
+  {
+   "date": "2026-10-01",
+   "handle": "j_asminewang",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "fired",
+   "safety": true,
+   "what": "fired with two safety colleagues; says the one reason given was that she \"accessed an executive's email\"",
+   "url": "https://x.com/j_asminewang/status/2108263312291180680"
+  },
+  {
+   "date": "2026-10-01",
+   "handle": "balesni",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "fired",
+   "safety": true,
+   "what": "fired (named by OpenAI's research leaders: 'Jasmine, Mikita, and Tomek')",
+   "url": "https://x.com/OpenAINewsroom/status/2108441580806025712"
+  },
+  {
+   "date": "2026-10-07",
+   "handle": "kylehkhsu",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": false,
+   "what": "joins OpenAI to work on personal AGI",
+   "url": "https://x.com/kylehkhsu/status/2107931536012333171"
+  },
+  {
+   "date": "2026-10-08",
+   "handle": "oleg_murk",
+   "frm": "OpenAI",
+   "to": null,
+   "kind": "leave",
+   "safety": false,
+   "what": "discloses he was pushed out of OpenAI in August after ~5 years: 'pressure to ship and beat competitors was taking priority over AI safety'",
+   "url": "https://x.com/oleg_murk/status/2108285417875279917"
+  },
+  {
+   "date": "2026-10-19",
+   "handle": "aleks_madry",
+   "frm": null,
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": true,
+   "what": "returns to OpenAI to work with @merettm on safety and security: 'a different regime of AI progress'",
+   "url": "https://x.com/aleks_madry/status/2112231448103239998"
+  },
+  {
+   "date": "2026-10-23",
+   "handle": "amorriscode",
+   "frm": "Anthropic",
+   "to": null,
+   "kind": "leave",
+   "safety": false,
+   "what": "creator of Claude Code on desktop leaves Anthropic",
+   "url": "https://x.com/amorriscode/status/2113972174524674247"
+  },
+  {
+   "date": "2026-10-30",
+   "handle": "_catwu",
+   "frm": "Anthropic",
+   "to": "OpenAI",
+   "kind": "join",
+   "safety": false,
+   "what": "Claude Code product lead leaves Anthropic; bio now says core products @openai",
+   "url": "https://x.com/_catwu/status/2117731934340337676"
+  },
+  {
+   "date": "2026-11-02",
+   "handle": "arkitus",
+   "frm": "Google DeepMind",
+   "to": "DiscoLoop",
+   "kind": "leave",
+   "safety": false,
+   "what": "leaves GDM after ~12 years for DiscoLoopAI: 'we now know how to build AGI'",
+   "url": "https://x.com/arkitus/status/2117285964976447754"
+  }
+ ],
+ "solidarity": {
+  "post": "j_asminewang firing post",
+  "url": "https://x.com/j_asminewang/status/2108263312291180680",
+  "handles": [
+   "andrewlampinen",
+   "blackhc",
+   "brayden_mclean",
+   "brianryhuang",
+   "christinexye",
+   "divyasiddarth",
+   "ethanjperez",
+   "j_asminewang",
+   "janleike",
+   "jcyhc_ai",
+   "jeremykritz",
+   "kelmgren",
+   "kwathomas0",
+   "max_a_kaufmann",
+   "neelnanda5",
+   "saffronhuang",
+   "sleight_henry",
+   "songlinyang4",
+   "tomekkorbak",
+   "vkrakovna"
+  ],
+  "by_lab": {
+   "Anthropic": 9,
+   "Google DeepMind": 4,
+   "OpenAI": 5,
+   "Meta": 1,
+   "Thinking Machines": 1
+  }
+ }
+}

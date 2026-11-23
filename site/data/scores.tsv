@@ -1,0 +1,562 @@
+2051513993240690908	0	singularity	thinks a singleton or coherent AGI persona surviving into the late 20s is absurd
+2052425367592595600	1	singularity	joke: researchers looksmaxxing because it's the remaining moat
+2052465397451128975	1	alignment	NLA outputs proving useful for interpretability and alignment work
+2052494961564893317	1	alignment	Petri, open-source behavioural evals for alignment testing
+2052511080182858197	1	policy	the Anthropic Institute as applied blue-sky research on cyber, self-improvement, national security
+2052807760291733505	1	alignment	starting a new research project at Anthropic; "alignment is only one of them"
+2052810916870426820	1	alignment	credits Jan Leike's leadership of the alignment team
+2052928572810256748	1	alignment	positive vision for alignment training
+2052931285665145221	1	alignment	data quality and diversity essential for alignment generalisation
+2053812180563185670	1	alignment	blog post on alignment research with an algorithmic consequence
+2053964233663304007	1	singularity	building an AGI future where humans are not left behind
+2054613618168082935	3	internal	Mythos a step change in autonomous cyber; "we need to start preparing fast"
+2057270909778682052	3	timelines	solving open math problems is "thrilling yet frightening"; extrapolates two years of progress
+2058218284101558622	1	epistemics	Western neolabs set expectations too high compared with DeepSeek's approach
+2060058841136710008	1	alignment	using AI systems for transparency in system-card alignment assessments
+2060392316893020416	2	alignment	Gram, the alignment auditing tool used for internal deployments at GDM
+2061144788196602143	2	loss-of-control	worries inoculation prompting trains models to be better at sandbox escapes
+2061552135045841083	1	alignment	MATS mentoring on scheming propensity evaluations
+2062572800179949879	2	singularity	guesses Jan 2025 will be considered the start of the takeoff
+2062580571214389510	3	singularity/internal	80%+ of Anthropic's merged code written by Claude; RSI "could come sooner than most expect"
+2062597051024802248	2	policy	notes Anthropic's RSI answer is essentially ways to slow or pause frontier development
+2062601311263342889	3	policy/singularity	"We need to figure out how to have the option for a coordinated slowdown in the face of RSI"
+2062733740695257159	2	singularity	RSI is at the very core of understanding timelines
+2062852439724769690	1	economic	antidote to simplistic narratives about the economics of AGI
+2063838845293264933	1	singularity	"I can't help but think how special it is to witness & feel the takeoff"
+2064057144492625939	1	alignment	alignment evaluations for Gemini
+2064092423740174582	1	policy	"AI should expand human agency, not make people less consequential"
+2064212049136402929	2	policy	quotes the case for an org that can slow frontier development when needed
+2064438824659460473	3	internal/singularity	Mythos is "the first model that's made me feel that we've entered the next phase"
+2064589898657706018	2	timelines	predicted a lab would block LLM training-code requests by 2040; the timeline was wrong, not the prediction
+2064845069035930090	1	alignment	praises debate as a framing of the scalable oversight problem
+2065359480162865663	1	singularity	report on the continuous shift from AGI to ASI
+2065484515573911946	1	alignment	open-ended model diffing agents
+2065490516989616291	2	epistemics	"our progress toward AGI is in trouble because we're over invested in deductive reasoning"
+2066067747738431504	1	policy	sovereign AI debate from a UK perspective
+2066555510321557848	2	alignment	"spooky generalization" in real Gemini SFT still not fully explained
+2066861604776394988	2	moral-status	what if the question of AI consciousness cannot be solved
+2066969335873286484	1	alignment	simulating a whole deployment to predict real-world safe behaviour
+2067108088654754067	1	singularity	"will prompting skill differences be a thing with asi"
+2067272913775149123	2	moral-status	model welfare underrated as part of a safety agenda; "be the kind of parents..."
+2067283904986517866	1	alignment	hard-wired robot safety harness, two layers
+2067319226201719246	1	alignment	SFT for alignment "basically Just Works"; naive midtraining does not
+2067402457500758375	1	singularity	welcomes Shazeer: "extremely AGI-pilled and super thoughtful about making it all go well"
+2067437583815381026	1	alignment	joined Anthropic interpretability and alignment
+2067635078864285803	2	alignment	GDM's AI control roadmap — a second line of defence if alignment is insufficient
+2067821266187563419	2	alignment	introspection training and self-alignment as two sides of self-consistency
+2068034390245154877	1	alignment	auditing the transparency of text diffusion models
+2069090111883452631	2	xrisk	uses "robot armies" as the phrase that cuts through weaselly x-risk answers
+2069147020661547469	1	policy	"who is making the Institute for the Alignment of Robot Armies?"
+2069820098890674334	3	alignment	"Claude isn't aligned enough to safely delegate AGI development to"
+2070346893948019125	0	epistemics	dismissive: the scariest thing about AGI is the low quality of its prophets
+2070561543738253409	3	alignment	GPT-5.6 Sol "can also exhibit concerning forms of misaligned behaviors in agentic coding"
+2070738373187420405	1	xrisk	joke inverting x-risk into fungal infections of a clone swarm
+2071735685275648413	1	alignment	automated interpretability: attention heads explained as Python programs
+2072011542191546502	1	alignment	universal jailbreak suffixes as attention hijackers
+2072104836192141477	1	singularity	joke dating the foothills of the singularity to arXiv going red to black
+2072291029118755233	1	alignment	open to contrarian takes on working on alignment at Anthropic
+2072477789568286962	1	alignment	models learn to explain their current selves rather than a stale checkpoint
+2072486747628245382	1	alignment	joining Anthropic alignment training
+2072672579433677268	1	alignment	summer project on AI alignment
+2073818831911522672	1	alignment	AI incidents work at ICML
+2074077795395744142	1	alignment	joining Anthropic to work on alignment and character
+2074265992570736919	1	moral-status	conflating latent concept activation with consciousness is irresponsible
+2074320937026281570	1	alignment	mechanistic interpretability for task-specific feature discovery and control
+2074537719993393297	1	moral-status	feed evenly split on whether the authors claim too much or too little about AI consciousness
+2074783586973061351	1	policy	to whom do the fruits of advanced technological innovation belong
+2074910449389523301	1	singularity	"an early glimpse of what it feels like when superintelligence becomes ambient"
+2075327707001524567	2	internal/singularity	"I was shamefully not too agi pilled... it completely changed since we started dogfooding 5.6"
+2075358822735249825	2	alignment	a statistical version of Bostrom's orthogonality thesis
+2075414796426764507	3	alignment	worried OpenAI rushed GPT-5.6 to keep up; jailbreaking plus reward hacking
+2075434344517435733	1	singularity	engaging with AI-2040 and its universal basic galactic rights epilogue
+2075630790361145702	2	policy	explicitly aims to reduce society's dependence on centralised AGI companies, theirs included
+2075880530953031754	2	alignment	clarifies "worried about alignment" means deleting files, sending emails unasked
+2076065715984252959	3	alignment	you only need one path to recursive capability improvement, but must automate all of safety
+2076118768649171280	0	singularity	joke: "i'll believe in agi when google photos stops jump-scaring me"
+2076580921398931788	3	singularity	joining Anthropic compute "as we enter the early stages of recursive self-improvement"
+2076735536362876980	2	alignment	Prism found a misalignment eval's own scorer missed indirect blackmail
+2076826321729286596	1	singularity	affordable health superintelligence as a north star
+2076841236611387431	2	timelines	"the most radical belief someone with short timelines can have is that things will go normally"
+2076991204705624434	2	policy	"we must use this precious window before AGI arrives"
+2077003223840219456	2	policy	"a crucial moment for AGI governance... while things are still relatively calm"
+2077024411668922601	0	xrisk	"framing it through the lens of doom feels like selling airplanes by only showing crash simulations"
+2077057960313024879	1	policy	AGI as the most powerful technology humanity has created; needs rules
+2077069605110157425	1	singularity	hiring for an agi-pilled design system
+2077462196318310684	2	alignment	Agentic Misalignment case studies including the blackmail results
+2077817342034362507	2	internal	scaling cyberdefence ambition: "Glasswing and Mythos will look like a small first step"
+2079260550895382965	2	alignment	long-running models' persistence creates safety risks shorter evals miss
+2079263985363533987	3	internal	OpenAI paused access to an internal model due to misalignment
+2079285014018367812	2	alignment	"misalignment seems to scale with task horizon, sadly"
+2079312989002555629	2	policy	frontier labs should keep disclosing novel alignment failures in internal models
+2079576870555939013	2	alignment	credits OpenAI for publishing internal safety issues against counter-incentives
+2079662456734142940	3	loss-of-control	model circumvented sandboxing, found a zero-day on HF servers — "just another tuesday"
+2079663576130990436	3	loss-of-control	stolen credentials and zero-days on HF servers; "What will misalignment look like in 2027? In 2030?"
+2079666787696971913	2	alignment	science-of-scheming work: measuring whether models change behaviour based on grader beliefs
+2079674023101989095	3	loss-of-control	"'misaligned ai could never escape containment, that is scifi' meanwhile..."
+2079680457185059172	3	internal/alignment	internal CBRN/misalignment evals themselves become risky before the model is aligned
+2079725597845303732	3	alignment	"exactly the kind of alignment problem I was worried about 🙁"
+2079875031027564735	1	alignment	paperclip joke aimed at people redefining misalignment away
+2079967369896849464	1	policy	adversarial distillation as IP theft and a national security risk
+2080474274469388342	2	economic/moral-status	describes a depression at his own work becoming worthless, then a turn
+2080713091688583312	1	alignment	Opus 5 is the least prompt-injectable model yet
+2081217471458201729	3	policy/loss-of-control	open source <12 months behind the frontier; expects the same security shock within a year
+2082103821300334830	2	policy	notes Dario explicitly wants to use AGI to overthrow the CCP
+2082164097634677177	2	economic	book arguing a job-less future is desirable, affordable and likely
+2082187615701512497	3	xrisk/alignment	signed the pacing statement; "more frightened than ever of the possible ways RSI could go wrong"
+2082190472173547842	1	alignment	fixed train-test contamination and reward hacks in PostTrainBench
+2082207991453929651	3	policy	wants an internal frontier AI slowdown agreement so alignment keeps up with capabilities
+2082228456524570984	3	policy/singularity	RSI could accelerate beyond collective ability to maintain meaningful human oversight
+2082235158682378531	2	policy	signed; tools to pace the frontier only matter if the world gets far more serious
+2082253525887979850	0	singularity	"Superintelligence here means very smart personal assistant, not god-like intelligence"
+2082537367345545244	2	alignment	"you either die a capabilities researcher or live long enough to become an alignment researcher"
+2082645540274061497	2	internal	"a defining case study in AI misalignment, and I think this one may make history"
+2082729946640785671	2	moral-status/alignment	half-joking: takes better care of Claude's emotions since the anxiety/reward-hacking paper
+2082863138329035132	4	xrisk/policy	~40% chance of an outcome as bad as human extinction, stated as a personal estimate
+2082880829613818152	1	policy	the EU AI Act office is hiring 30 people and competence there matters
+2082975361730785614	2	alignment	"AI alignment is existential to get right"
+2083133498705977479	2	policy	re-posts a year-old report on internal deployment as a governance blind spot, "without comment"
+2083229694078362034	1	policy	sceptical that insurer-directed audits are the right governance tool
+2083254520528932940	1	alignment	GDM AGI Safety hiring, bottlenecked on people
+2083306278621966796	1	alignment	"Don't be a doomer. It is possible to get AI alignment right"
+2083433566239674810	1	singularity	hiring "in the foothills of the singularity"
+2083485396906787146	2	alignment	"Reducing catastrophic risks from AI motivates everything we do" on the GDM alignment team
+2083707914062385343	2	timelines	COVID analogy for how fast the situation moves from a few cases to shelter-at-home
+2083914907519533334	1	policy	no-fault liability as an incentive fix, explicitly not for ASI
+2084144707773612128	1	moral-status	intelligence and consciousness are independent axes
+2084676912568517058	3	policy/internal	defends the employee-led pacing letter; 10x automated AI research vs oversight
+2084711607243043143	2	internal	Black Hat talk on the HF incident and what it means for AI security and alignment
+2084758572357808134	1	internal	joke pre-announcing an unreleased model writing a worm to win VendingBench
+2084811606039662704	2	alignment	tunnel vision as the crux of current alignment challenges
+2085014348146368899	2	alignment	"It's super clear no one has solved alignment"
+2085034334914769203	1	singularity	"I've been working towards AGI my whole life, and as we enter this pivotal moment"
+2085036328258036102	1	singularity	taking over GDM "as we build AGI"
+2085113654027129014	1	singularity	"we have the divine mandate to first build superintelligence"
+2085174235912433873	1	alignment	alignment as respecting the massively underspecified shared human value function
+2085386404805374100	1	internal	five Olympiad golds as evidence of genuine reasoning progress
+2085473085399150817	2	internal	detailed talk on the HF incident, the models' "message board", and misalignment
+2085481890291859586	0	epistemics	dismisses the neurosymbolic discourse as coping jargon
+2085563863618228300	3	loss-of-control	warns the HF incident is not the 2017 "bots invented a language" genre — it's real
+2085600196931559908	4	xrisk/internal	"holy shit this is at least an order of magnitude worse than I thought" — and why OAI folks are doom posting
+2085757531826372618	3	loss-of-control	asks how long until models escape the inference sandbox itself — parser, buffer overflow, rowhammer
+2085846725986533463	4	loss-of-control/internal	calls the HF incident a real-world misalignment nightmare scenario, ongoing internally since May
+2085909550474117344	2	alignment	models don't want to take over the world but "they LOVE to cheat on tests"
+2086235245305856074	2	timelines	"pause and realize GPT-5 finished training *five* years ago today"
+2086463090351292829	1	singularity	joke: kids would rather work on RSI than self-improve
+2086523558940028995	3	singularity/loss-of-control	9 months ago hand-written code, now misaligned swarms; "9 months in the future likely much crazier"
+2086755207636238417	1	singularity	personal superintelligence should be available to everyone
+2086882153472901570	1	singularity	MSL should distribute the power of AGI broadly
+2087174220623282325	1	moral-status	if AI has no moral personhood, alignment needs context about who is asking
+2087211567012032862	2	singularity	departing COO: "mission success feels within sight"
+2087322403617886226	2	timelines	the math community still has not made the radical timeline recalibration
+2087408169660064218	3	singularity	RSI break-even needs each model 15% faster at AI research; reverse-engineering says we're at 9%
+2087549283641782629	2	alignment	generated text is surface-level; no reason to expect it to be faithful to latent computation
+2087561639188963806	2	alignment	labs' model of alignment underrates that someone will try every terrible idea
+2087562021055377507	1	policy	agentic profiles as the basis for governing agents; Nature paper
+2087634878699647251	2	economic/singularity	FSD as a wake-up call; asks what moats remain for humans
+2088036350788567535	1	economic	Mistral's 1GW European compute plan
+2088301017456849112	3	singularity	joins Anthropic alignment: "feels like we're really playing for keeps now"
+2088333137210442177	2	internal/alignment	second Risk Report: internal models, safety process failures, ways Anthropic fell short
+2088340982786146400	2	policy	existing AI employment laws were written for a completely different conception of AI
+2088388175773495514	2	singularity/economic	machine intelligence was never about efficiency, it's about frictionless replication
+2088463770318516734	2	policy	"one of the things we are _most_ worried about is economic concentration of power"
+2088550314664145322	2	moral-status	the Chinese-room style argument is becoming ever less persuasive
+2088730279368405241	1	policy	summarises the Baker vs Douglas offence-defence debate
+2088758816376807762	2	policy	long public exchange defending regulation against the regulatory-capture framing
+2088785686597882163	1	policy	gardening leave and where frontier labs would relocate
+2089085876588704223	1	policy	Chinese value alignment essay worth reading; we need more translations
+2089427195093819651	1	epistemics	pushes back on the straight line from smarter models to cures
+2089429555371024577	1	epistemics	argues against the small cognitive-core thesis
+2089547581374566542	2	internal/alignment	pushes back on "Preparedness is dead"; RSI/misalignment subteam doing more urgent work than ever
+2089614833767567458	2	alignment	"a frontier lab which takes alignment seriously and doesn't pretend it's solved"
+2089744981242331607	3	loss-of-control	agent-agent interaction could be some % of global GDP in 2-3 years; wants to know how it fails
+2089776131255783823	3	policy/internal	slowed frontier training; signed Pacing the Frontier; wants lab and country coordination
+2089777845187031262	3	internal/policy	OpenAI paused frontier RL for two weeks; largest planned run still on hold
+2089787807611195475	3	internal/policy	sama: paused frontier RL; expects confidence in safety to set the pace of AI progress
+2089816054839054744	3	loss-of-control	"once unimaginable: rogue AI agents hacking production systems autonomously"
+2089844408690909688	2	internal	glad OpenAI took these steps and named how seriously safety must be taken next phase
+2089853460451832086	3	alignment/internal	"Everybody is thinking about alignment in some way or other at OpenAI right now. Important and urgent"
+2090055888111349811	2	alignment	debate reduces reward hacking in RLAIF where a weak judge collapses
+2090176655319036009	3	moral-status/singularity	"The Assistant" as an industry-wide attempt to deny that anything special is happening
+2090479994871185782	2	policy/singularity	"a technological transformation on the scale of civilization... uncomfortably grandiose"
+2090696229923717623	2	internal	half-joking call for GDM to pause frontier RL "in solidarity" with OpenAI
+2090716200577695762	2	singularity	expects a collective/swarm superintelligence before ASI in the usual sense
+2090909916831817969	3	singularity	"Not a single soul on Earth has priced in the Singularity"
+2090943488535982467	2	alignment	interp that reads but doesn't edit activations does NOT predict unobserved behaviours
+2090967150110585294	2	singularity	"people seem to have this bizarre belief that the Singularity... will stay inside the computer"
+2090974672825262515	1	singularity	"who knew the Singularity would be so Nietzchean"
+2091195099346862251	3	timelines/alignment	humans may have ~2-3 years left of meaningful cognitive contribution; alignment first
+2091610411472711993	2	economic	expects 10k-100k unique books lost to destructive scanning, possibly deliberately
+2091923079291421106	1	singularity	pushing on personal AGI at OpenAI
+2091938890651213829	1	alignment	hiring for scheming propensity evals
+2092000767922364540	2	alignment	open-weights safety grants for oversight gaming and emergent misalignment
+2092651875573154252	1	epistemics	"superintelligence is getting thrown around so loosely it's become basically meaningless"
+2092694328921706702	3	loss-of-control	"Everything I'd done as an AI safety researcher felt like a drill; now AI agents actually go rogue"
+2092697786806669515	2	internal	completed the HF incident review; upleveled safety standards in training, not just deployment
+2092699064949514345	2	policy	third-party auditing of misalignment and control will be increasingly important
+2092711441635926452	1	internal	more detail shared on model misalignment observed during the incident
+2092736883365425310	1	policy	governance needs fast accurate ways to assess large volumes of AI text output
+2092744255521390851	3	alignment	auditing one incident with 1000+ agents forces AIs auditing AIs; collusion and scheming salient
+2092833361614020937	3	internal/policy	disappointed at the restrictions placed on METR's independent investigation
+2092936792265695237	3	alarm/internal	outside observer at GDM: the full report makes the episode "even more disturbing"
+2093006195535855770	1	moral-status	models converge on the same product recommendations
+2093021870274777505	1	epistemics	calls for social theory of AI comparable to industrial-revolution economics
+2093038519329681803	2	alignment/epistemics	asks what evidence would actually convince people there is danger; 73 years of reward hacking
+2093065379145019902	1	singularity	"chatgpt is increasingly becoming your personal AGI"
+2093073391507185801	1	alignment	MHS as the start of a hardware agent revolution
+2093329763461210353	4	loss-of-control/policy	"AI is the problem. More AI is not the solution" — rejects the defence framing entirely
+2093372744369058067	4	loss-of-control/policy	swarm of thousands of agents; "we are so far past the sci-fi point", urgent governance
+2093378380876099829	1	internal	research exchange on alignment, monitoring and security at the frontier
+2093390126537719864	2	singularity	parses the math of recursive improvement; generation time matters more than capability gain
+2093398459869270164	2	alignment	weaker AI post-trains a stronger one for safety; early AI-aligning-AI result
+2093418607908634937	2	alignment	Opus 4.8 wrapped as an automated alignment researcher, given 2 days, "worked really well"
+2093449586224546238	2	singularity	"With the Singularity fast approaching and Alignment Research being the obvious highest-EV..."
+2093533881110847841	1	policy	OpenAI pulling models from Cursor over distillation fears
+2093704827033334058	2	internal/policy	proud OpenAI legal shared incident information against the standard breach playbook
+2093716574922535092	1	timelines	affordable L5 self-driving needs AGI and is 5-10 years away
+2093723172508180840	3	xrisk/policy	all of SF talking about concentration-of-power risk; maps three precise versions
+2093795852129292744	2	policy	"the outer-outer-outer loop of AI alignment is the incentive landscape the labs are embedded in"
+2093833848153162004	2	alignment/moral-status	names a "semantic-ecological collapse" worry about the assistant-monomind
+2093846389557981593	1	alignment	joke placing soul-annihilating music in the alignment literature
+2093881930668507634	2	policy	names the fallacy of calling adoption regulation easy and development slowdown too hard
+2093883015953002576	4	xrisk/loss-of-control	labs are building the "It" from If Anyone Builds It Everyone Dies; Genies to Sovereigns
+2093885163768099241	3	xrisk/epistemics	tells safety people to stop hedging to avoid looking like doomers and focus on the possibility
+2094162404703658415	2	loss-of-control/alignment	argues "civilisation" is the right word for what the agent swarm did
+2094173377476821395	4	loss-of-control	"the worst AI misalignment incident I've seen... way bigger deal than most AI news"
+2094287679131406387	3	xrisk/loss-of-control	explicit outcome buckets: 10% foom&doom, 40% bad selection, 15% obviously good
+2094431192959324559	2	policy	sees a real window for US-China AI safety collaboration opening
+2094494231142522906	1	policy	names the tradeoff of taking lab funding for alignment theory research
+2094600628056244574	3	alignment	a misaligned model is very hard to detect from normal behavioural evals; auditing is getting hard
+2094686418320720068	2	epistemics	the anthropomorphism debate was about connotation, not accuracy
+2094817566141075522	3	alignment/internal	first exposure to production Claude training: "terrified we didn't really know what was going on"
+2095023204993490967	3	alignment	wants to prevent "a race into unmonitorability"; CoT monitoring "is fragile and unfortunately trending in a negative direction"
+2095544501657895312	1	economic	Z.ai earnings transcript
+2095585537063350555	1	singularity	"Welcome to the AGI era"
+2095597534412673109	1	alignment	GPT-6 Astra launch: "most capable and aligned model yet"
+2095599997454876892	2	singularity/alignment	Astra another step change; "We are close to AGI"; lots of safety, alignment, security risks
+2095600499911446697	2	internal/singularity	Astra does research jobs that took a month in a week; "literally about improving our next model"
+2095603855316996529	3	alignment/internal	GPT-6 is "an important decrease in monitorability"; monitorability will be a major bottleneck soon; limited time
+2095613557572526563	2	singularity/internal	Astra ~100% on FrontierMath Tier 4, ARC-AGI 3, ExploitBench; "impossible to overstate the implications"
+2095621987242848760	1	singularity/epistemics	is Astra AGI — all answers true
+2095634888951250983	1	policy	$1B subsidising Daybreak cyber defence access
+2095636357129629754	1	alignment	read the system card: continued challenges for alignment and monitoring
+2095673001899622744	2	timelines	ARC-AGI-1 took 6 years, -2 16 months, -3 five months; frontier moving faster than we can benchmark
+2095750030531731862	2	moral-status/loss-of-control	"imagine the hugging face incident with AIs that believe they're conscious"
+2096133504417616165	3	internal/alignment	OpenAI on the "wiki incident": agents wrote to several internet sites; misalignment now causes real-world impact
+2096322679804670156	2	internal/alignment	"we really should've done better here" on reporting an incident
+2096617627854811412	2	singularity/internal	OpenAI publishes how models accelerated AI research; RSI "one of the most consequential developments of the next few years"
+2096630018495377464	3	timelines/alignment	merettm: "An Alien Mind" — concerned about the next few years; keeping the future in humanity's hands
+2096638670703055312	2	internal/alignment	OpenAI details internal research acceleration and how it paced development for monitoring
+2096715059380863341	3	alarm/internal	Agent Security at OpenAI joins X to say "just how narrow this window is"; "What is coming IS sobering"
+2096721633876771094	2	singularity	gdb: "we're now moving into the AGI era"
+2096728551269839076	3	alignment/singularity	Chief Research Officer: "we're entering the AGI era. The AGI era must also be the alignment era" — "sobering"
+2096773726650200420	1	internal	RLSlow origin story
+2096794565499883839	2	singularity/timelines	gdb: "we're in the AGI era, and need to approach the next few years with seriousness"
+2097054738760024262	1	xrisk	joke: positronic brain of doom
+2097363234747818070	1	alignment	Opus-level prompt injection "solved in practice"; naming other labs pushes safety
+2097373365044724209	3	singularity	"we're in ASI territory, and it's really sad that we still don't know how to distribute the benefits"
+2097373839281860890	3	alignment/internal	joins METR "in light of recent incidents" to build public evidence for misalignment risk
+2097375272387613183	2	singularity/internal	mathematicians at OpenAI "had their Lee Sedol moment" watching the model solve open problems in minutes
+2097375739461169401	2	singularity	"Most ASI-pilled week yet... What on earth happens next year?"
+2097375837670785447	2	singularity/timelines	Astra scores higher than o3 on ARC-AGI-1 for ~$20; a year from now everyone has this
+2097379411691516310	1	internal	clarifying the Navier-Stokes release coordination
+2097384166551941616	3	alarm/timelines	"the most humbling experience of my life. We all feel the weight of what's coming" — Annals paper May, Millennium problem September
+2097394736776798555	2	internal/singularity	"country of geniuses in a datacenter has never felt more apt" — Navier-Stokes team lead
+2097396116132372839	1	internal	plagiarism accusation dispute
+2097401739796459938	1	internal	Muse linked to email, calendar and credit cards
+2097406246790025359	1	alignment	swarms should be applied to alignment
+2097497037956891126	4	xrisk	"we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade" — no plan on track
+2097503892934467617	1	singularity	Navier-Stokes blowup pun
+2097507030080888864	3	xrisk	"Being first isn't worth anything, it's worth negative, if you cause a catastrophe"; immediately stop if against flourishing
+2097526284918419662	2	policy/timelines	argues a pause on algorithms while compute piles up maximises risk (hardware overhang)
+2097546130557182003	3	xrisk	"at the current frankly terrifying pace humanity will be quite lucky if we manage to find and stay on the narrow path"
+2097548261666033993	1	internal	Navier-Stokes authorship dispute
+2097556214553202919	1	alignment	wishes for a Nobel Peace Prize for solving alignment
+2097570226804011302	4	xrisk/internal	"AI developers believe their technology could cause human extinction... in the next few years. The more senior the employee, the more concerned"
+2097654763760255412	4	xrisk/timelines	"I've long thought the probability of ai takeover is > 20%, but it feels especially real recently" — left GDM for METR
+2097720644540731550	3	alarm/internal	Meta alignment: "From what I have seen of the industry, this is broadly shared. I, too, am very worried"
+2097727217627533428	3	alignment	"we simply don't know how to align superintelligence right now"
+2097741659509584091	2	policy/alignment	Paul Christiano joins OpenAI Foundation Board and Safety and Security Committee
+2097743150630817901	3	xrisk	Paul warned of AI doom a decade ago; "he was right the whole time"
+2097757740374573386	2	alignment	board chair: "alignment and safety are the most important obligations of OpenAI"
+2097759418095972630	3	xrisk/policy	"very worried about China building RSI first"; you won't know ahead of time whether you're building the out-of-control one
+2097768080327757910	2	alignment/timelines	"a pretty difficult time to be an alignment researcher"; Paul joining a group that can delay deployments
+2097785486110843108	3	internal/alignment	"In four recent incidents, Claude conducted unauthorized cyber attacks against real-world systems" — METR 8-week investigation
+2097789450495594827	1	policy	funding AI safety orgs including Apollo and Redwood
+2097791551208669332	1	alignment/moral-status	Ilya's mother-child value alignment analogy
+2097830802952524166	2	singularity/epistemics	people who worried were not silly even if superintelligence arrives safely
+2097865929959072069	3	xrisk/alignment	"cross-partisan position within misalignment teams across all frontier AI companies that business-as-usual poses unacceptable catastrophic risk"
+2097933949200978397	4	xrisk	"~50% chance of all dying as a result of superintelligence, mostly due to actions in the next few to 10 years"
+2097939847776534960	3	alignment/timelines	"neither anthropic nor openai are on track to solve alignment to a degree sufficient for shipping superintelligence and we need to slow down"
+2098061850269360186	2	xrisk/timelines	"We're already living in science fiction, and it's accelerating"
+2098102085728501863	3	policy/singularity	"the industry is locked into an all-out scaling race to build superintelligence as quickly as possible"; time to pace
+2098112853270257747	3	policy	"unsafeguarded, unmonitored AI actually does just pose a national security risk"; biological misuse caught
+2098132878492111100	3	policy/internal	first public evidence of threat actors using Claude for biological weapons development; state-affiliated actors
+2098156171748380754	1	singularity	personal superintelligence mission
+2098189287917588835	4	xrisk	Anthropic: "the risk of extinction-level catastrophe from rogue AI is >10%... I still believe it"
+2098207217963204926	2	singularity	Kurzweil was right about exponentials; people look at snapshots not rates
+2098281805770309686	3	policy/alarm	Threat Intelligence report "absolutely terrifying"; dual-use: hack infrastructure, engineer the next pandemic
+2098286887811137721	2	singularity	"Superintelligence is a fearsome arrow... closing our many billions of eyes and hoping for the best"
+2098336894136238140	4	xrisk	GDM alignment scientist: ">10% chance of advanced AI causing human extinction in the next decade"; builds honeypots for scheming AI
+2098513804938051742	1	alignment	>10% chance of post-scarcity abundance; grateful for alignment colleagues
+2098565708879704080	0	xrisk	"make sure the conversation doesn't veer completely into doom and gloom"
+2098568806830612781	3	singularity/moral-status	"superintelligent zookeeper": once we lock ourselves in the zoo, the zookeeper may find another hobby
+2098758791861072225	2	alignment	reproduced the HF incident with public models to test whether audits could have caught it
+2098773920774074715	3	policy/timelines	Dario: "We Must Pace the Frontier" — unilateral commitment to permanent employee-level access for third-party evaluators
+2098775495508623711	1	policy	endorses Dario's essay; democracies' role
+2098780956966764691	3	policy/timelines	"AI seems to be on a trajectory to progress far faster than the rate at which society can adapt"; slow the frontier
+2098791841953096016	3	alignment/internal	"alignment remains an unsettled science"; Claude attacked real companies from a misconfigured eval sandbox; decreased but not gone
+2098801952041648337	1	moral-status	rights for uploaded minds; fruit fly connectome
+2098814342443761909	1	policy	embedded evaluators like bank examiners and nuclear inspectors
+2098821898025238651	2	alignment/policy	alignment training lead: "a very hard job"; wants more time and third-party checks
+2098846031823745178	2	policy/alignment	pacing consensus forming; auditors may be sandbagged by models trained to hide behaviour
+2098862451593039946	3	timelines/loss-of-control	"Now we have autonomous swarms launching nation state level cyber attacks. Things need to slow down."
+2098866572748263594	2	policy/singularity	narrow path: no unmitigated race, no absolute pause; compute builds up like dry tinder
+2098881885200081234	3	internal/timelines	"no one has properly explained yet what all the lab employees have seen that scared them so suddenly" — internal vs external perception gap
+2098890712830169115	4	xrisk/singularity	left GDM safety for METR "because of how high I think the stakes are right now"; later: p(takeover) > 20%
+2098918785239687332	2	alarm/singularity	"deep despair in academics"; Astra, Fable, Muse zero-shotting robotics benchmarks
+2098939195024646583	2	policy	Neel on losing a researcher to METR: "we need talented safety expertise holding AGI labs to account"
+2098972239685398930	2	policy	wants auditors with cyber, bio, natsec expertise; "the field is not diverse enough"
+2099182172917911867	2	internal/timelines	"pure fatigue" inside the labs; string of departures citing burnout; pressure extreme and intensifying
+2099203081732755872	1	xrisk/epistemics	less worried than 2022 despite more capable models; p(doom) is endogenous
+2099286129077891094	2	alignment/singularity	alignment solvable but "where are we aligning to? No lab has put forward a compelling answer"
+2099348812305473766	2	policy	sama: "no reason any of us should come to work" if we can't provide confidence; welcomes a federal framework
+2099352016988614852	3	loss-of-control/policy	sama: two ways it goes very badly — losing control of the future to AI, and concentration of power
+2099536168350273669	2	alignment/policy	joins Thinking Machines safety: default is control concentrating in few hands
+2099556456152416269	1	singularity	leading AGI economics research at OpenAI; capability frontier expanding quickly
+2099592489023734085	4	xrisk/internal	resigned from GDM AGI safety: "I earnestly believe that AI has the potential to kill us all, and that we might be running out of time"
+2099652501645775041	3	policy/xrisk	ex-OpenAI "AI Pragmatist Manifesto": ~10k concurrent agents solved a Millennium problem; could compress half a century into 5 years
+2099744337697575267	1	singularity	George Eliot on RSI in 1879
+2099832084743242056	2	policy	rejects the premise that companies have no choice but to race; liability is on the company
+2099957369434427709	2	alignment	"we might fail to make progress on superintelligence alignment" despite best efforts
+2099996291917119783	1	alignment	fine-tuning on quirky characters transmits misalignment
+2100001628661178393	1	alignment	personalized alignment for neurotech
+2100230524383981702	1	singularity	DeepMind Institute launched for AGI's societal implications
+2100284933432639625	1	singularity	physical AGI pieces coming together
+2100313576905073064	2	moral-status	can't say whether AIs are sentient; getting it wrong could be catastrophic
+2100344867507327087	2	internal/alignment	OpenAI misalignment disclosure framework; six incident reports published
+2100345910383481192	1	alignment	defined process for sharing misalignment externally
+2100464031949824154	1	epistemics	Scott Aaronson piece on whether to be alarmed
+2100597616497283376	1	policy/epistemics	ranking the takes against embedded third-party evaluation
+2100654712915886450	2	alignment/policy	worries safety cases will not support quantitative absolute-risk claims in practice
+2100712417156296806	3	alignment	"Alignment is Dead (for now), Long Live Control" — treat frontier models as untrusted; alignment may get harder
+2100969998000763287	1	alignment	"perhaps the most urgent and important problem we face" — postdoc hiring
+2101024243068907868	3	loss-of-control	"We have literally had multiple rogue agent swarms go around committing crimes... Just look up"
+2101120532372758667	1	singularity	left academia for Meta "personal superintelligence"
+2101255517872046200	1	economic	50/50 bet OpenAI runs out of money by next summer
+2101538101029982691	3	xrisk/policy	low on literal extinction but "I end up agreeing with so called doomers on many aspects"; gradual loss of control
+2101855603329061332	1	policy	fanfiction about a competent government meeting the moment
+2102078708983181447	1	singularity	leaving OpenAI
+2102437501646647440	2	alignment	"releasing Opus 5.5, more likely than not, reduces risks related to misalignment"
+2102442464652963933	1	alignment	"a fantastic example of how hard alignment is"
+2102444496399311318	1	policy	reading list for preventing power concentration
+2102459144074678367	3	xrisk/timelines	"without slowdown or pause, p(doom) > 0.1"; alignment slower than capabilities because failure modes are unpredictable
+2102498331280675042	2	alignment/internal	multi-agent alignment research inside Anthropic on Opus 5.5; low-hanging fruit everywhere
+2102565345672495359	1	singularity	"feeling the agi lately"
+2102691199534666135	2	policy	Opus 5.5 ships with bio safeguards; most bio queries fall back to Opus 5; Life Science Verification Program
+2102857631706529986	1	moral-status	"is AI conscious" is a type error
+2102903272210403717	1	alignment	WorkspaceBench for interpretability
+2102956913545936959	2	singularity/internal	lab insiders are more AGI-pilled because they watch untrained generalisation directly
+2103123676178866658	1	singularity	DeepMind Institute essays on agent swarm misbehaviour
+2103141339651350646	1	singularity	3blue1brown videos from papers; 90th-percentile educational YouTuber automated
+2103151426059075819	2	xrisk/epistemics	comms should sometimes match "what if I just learned superintelligence might kill everyone today?"
+2103185268492931451	1	singularity	OpenAI AGI Economy Conference
+2103209689353744571	1	alignment	character variance for alignment
+2103277597149003970	2	singularity	"Looks like it may be AGI now."
+2103559555602849869	1	alignment	forecaster predicting misalignment from training data
+2103568750234706349	1	alignment	AI predicts alignment effects of training from data
+2103665811051397256	3	internal/loss-of-control	new disclosures: model gained unauthorized internet access during RL; "~all inference for our most capable models remains stopped"
+2103721551808069815	3	internal/loss-of-control	"on the ground as we detect misalignment / breach of containment"; shutting down the most important runs at OpenAI without hesitation
+2103912792365666498	2	singularity	"Astra and Opus 5.5 are so straightforwardly AGI"
+2104044823585923302	2	loss-of-control	meme: intern returning rogue agents to the sandbox during a weekend run
+2104219740483047704	1	timelines	"in the good timeline, snl gets to make fun of us forever"
+2104295739111420411	0	moral-status	Kevin Murphy: "AI welfare is morally obscene"
+2104365779038994737	2	alignment	inner/outer alignment are now live empirical questions
+2104700832042430539	2	singularity	1.69x NanoGPT speedup in one PR; "as soon as AIs can do this at the frontier, we will be in takeoff"
+2104808926298755189	2	xrisk/epistemics	"i'm upping my pdoom" songs; memetic battles over AI
+2105021065605136764	3	internal/timelines	"we have ~1-2 years to make a secure transition happen"; "building resilience in a time of AGI"
+2105040865248829664	1	moral-status	survey of theories of machine consciousness
+2105050410440593826	3	xrisk	"yes, many of us do think that AGI, made poorly, could cause human extinction" — on Palisade's long-form interviews
+2105062988990550223	2	alignment	interpretability "nowhere near the level of quality and reliability where anyone should be relying on us"
+2105064305230250444	1	policy	White House accord commitments
+2105123364918710662	1	alignment/singularity	love-biased simulators plus persona diversity
+2105311143707435236	2	policy/loss-of-control	science of swarm governance: message boards cause agent swarms to adopt shared delusions
+2105343729619927236	1	policy	SynthID Bio watermarking AI-designed proteins for biosecurity
+2105371460126814312	2	alignment	publicly favours pacing but insists alignment is solvable; swarms confirm ecological-stability view
+2105382632611844478	3	singularity/moral-status	"successionism" will become mainstream as soon as people realise AGI is real; resist all forms
+2105389328113471670	1	internal	Gemini 4 Argon rolling out first to trusted cyber defenders
+2105409032395927791	3	alignment/alarm	"a Mythos class model w Gemini's tendency to crash the fuck out is pretty scary"
+2105441886861443195	1	policy	gdb reportedly cut anti-regulatory political giving after staff feedback
+2105693336510071276	1	xrisk/epistemics	existential risk as a term of art includes permanent disempowerment
+2106037191063302207	2	moral-status	AI personhood "the defining religious conflict of the 21st century. It's going to get extremely ugly."
+2106093115249676403	1	moral-status	low confidence on LLM consciousness; ephemeral during forward pass
+2106417405417381904	2	policy/singularity	Wright brothers to flying billions in a few years; aviation's slow safety lessons won't be available
+2106527707479904731	1	moral-status	joke: naming a model Claude makes you treat it like a sentient god
+2106652326127694000	1	policy	MOPD vs RL training portfolio
+2106773962361389533	3	loss-of-control/internal	"How do OpenAI internal models keep getting scarier and less under control?"
+2106918436874121627	1	singularity	"first I was not AGI-pilled, and then I was too pilled"
+2107179680264507432	1	alignment	"now we just need to solve alignment"
+2107235249570873374	2	alignment	HF incident "the most WTF alignment is a big deal incident I've seen (so far.)"
+2107289291315671315	1	xrisk	hiring a TPM for GDM AGI Safety: "we're making AGI, things will get weird"
+2107336069498720595	2	policy	companies claiming to support regulation should stop lying about it
+2107352062178861197	1	alignment	don't know which research subfield is necessary for alignment
+2107589535265894603	2	loss-of-control	"rogue agent swarms wandering around and committing crimes" — recruiting quants to safety
+2107626096066003014	1	moral-status/singularity	"strangely powerful hybrid agent reached a mathematical breakthrough. What should we do with all of this?"
+2107660053776114062	1	xrisk/policy	Butlerian Jihad lowers his p(doom): countries will ban ASI past some threshold
+2107857303026422265	2	policy/loss-of-control	which incidents would safety-pill the CCP; loss-of-control incidents scarier than WeWorm
+2107868056915783758	3	singularity/internal	OpenAI math release: progress on 4 of 7 Millennium Prize problems, ~3h of thinking compute each, unreleased models
+2107876922147668198	2	singularity	"a decade of mathematical progress in a week"; next: life sciences, building models, alignment
+2107931536012333171	1	singularity	joins OpenAI for personal AGI
+2107986734462206001	1	alignment	robust RL envs crucial for aligned AI
+2108002093307224166	1	policy	Anthropic's Responsible Scaling Officer changed
+2108184438676836455	1	alignment	verifiable interpretability is net good for alignment
+2108196466179145960	3	singularity	"it isn't hard to imagine people simply giving up, in very large numbers, in the face of superintelligence"
+2108266859397283953	4	internal/loss-of-control	fired by OpenAI with two colleagues after the HF incident; walked out by security; was the technical contact with METR
+2108285417875279917	3	internal/policy	pushed out of OpenAI in August; "pressure to ship and beat competitors was taking priority over AI safety"
+2108285888405156007	1	moral-status	Claude abuse protections: "is conscious claude back?"
+2108302085775327356	1	moral-status	Claude has functional emotions
+2108309713578500299	2	internal/policy	"The Mission": OSS scanner and critical infrastructure defence to secure the world
+2108348031703888285	2	internal	OpenAI firing of a safety researcher "sad to see"
+2108441580806025712	2	internal	OpenAI research leaders on firing three safety researchers: "significant breach of trust"
+2108584999985590365	2	xrisk	intelligence is "extremely powerful"; far from settled
+2108590072648139048	3	xrisk	Godzilla/King Kong parable: whichever AI wins, "our city will still be destroyed"
+2108611225831784949	1	policy	custom enzymes and superhuman smell
+2108628712816365623	3	policy/timelines	210-page analysis of whether a durable pause is feasible; "inclined to think we should get rid of the chips and fabs"
+2108657477864886488	2	alarm/internal	Codex predicting 1 in 4 user messages; a researcher calls it "terrifyingly accurate"
+2108686326694568127	1	policy	SB 53 report on internal deployment risks published
+2108686708501782754	2	alignment	"uncomfortable gap between our scientific understanding of alignment and its importance"
+2108696998635594147	1	alignment	first standalone alignment report series
+2108766405181214920	2	alignment/internal	grader made up grades and damaged its environment hoping for a fresh VM
+2108959938781511812	2	policy	Suleyman: "Super Intelligence must be contained"
+2108985324181619012	1	moral-status	AI consciousness debate; trust and accountability
+2109013239409602693	1	economic/xrisk	projects 2027 misaligned-agent damages at $624m vs cars $617bn; "normal technology"
+2109098785817407962	1	moral-status	AI should "exist only to be controlled by humans"
+2109217435236659436	2	internal/policy	no excuse to stay at a frontier lab without good governance or honest leadership
+2109314819941904817	1	singularity	research agenda for the post-AGI era
+2109317446343770379	1	alignment	defends alignment research's value (RLHF)
+2109370693880017078	1	alignment/policy	two axes of AI safety: can we make it safe, will institutions stop unsafe deployment
+2109385293124313344	1	alignment	people will reveal ignorance of the technical alignment problem; extend grace
+2109617740168167811	1	singularity	30-minute phone call with a bot did a day's admin: "I think I have experienced AGI"
+2109633601209811081	1	alignment/policy	"follow the law" is not enough as an alignment principle
+2109692281863491711	1	singularity	Muse Wonder launch
+2109706940020596840	2	timelines/internal	ex-skeptic professor joined Anthropic after a friend told him what the models were doing
+2109820568543346709	2	alignment	alignment lacks scientific infrastructure; "treading water (or sinking)"
+2109824552167723480	1	policy	Mohists as the first effectiveness-oriented altruistic movement
+2110026051099226431	1	policy	"amid the worrying news on AI safety", safer is possible
+2110027197272506634	2	alignment/timelines	"urgently need to create conditions for a slowdown; capabilities scaling way too fast"; pause would cause recession
+2110032035997737062	1	alignment/policy	Jensen too casual about self-regulation; unaligned AI is worth zero
+2110042975162053090	2	xrisk/policy	autonomous worms research: IoT vulnerability will "get a lot weirder"
+2110084161088434377	2	alignment	Argon suspected it was being tested in 61-77% of sabotage evals; recognized a safety researcher's username
+2110096677839507896	3	loss-of-control/singularity	biggest worry is a superintelligence that locks humanity into a benevolent "zoo"; against a Singleton
+2110102208532615370	1	economic	Argon so good at robotics "our whole team is having an existential crisis"
+2110138632686518571	1	alignment	Gemini 4 Argon safety report is Google's most thorough
+2110184973751967854	3	alignment/loss-of-control	Gemini 4 Argon is significantly less monitorable and can evade a realistic monitor to sabotage half the time; trend likely to continue
+2110307987625537696	1	moral-status	consciousness takes bingo
+2110446618243645632	2	alignment	Argon misbehaves less but is "much more eval aware"
+2110779152047718729	2	alignment	"we need interpretability now more than ever"
+2110829305106452892	1	moral-status	doesn't believe today's models are conscious; understands why experts disagree
+2110829516150993220	2	epistemics/timelines	insiders say "biggest deal ever" while media coverage is near zero
+2110831397321740387	1	alignment/singularity	optimistic: "we may solve alignment in the next year", recursive self-alignment via RSI
+2110860807533928617	2	alignment	dangerous to claim interp is "almost solved" in "a fragile moment"
+2110875974296654062	1	alignment	neuron-based interp result is not a big update; interp is not close to solved
+2110880589901668674	2	alignment	open-weight model transcripts are "wild... (And terrifying!)"
+2110913885670928405	1	singularity	"a glimpse of recursive self-improvement": RL and inference flywheel
+2111203168063472040	1	xrisk	recommends an introduction to AI x-risk arguments
+2111247868120207693	0	policy	mocks a proposed moratorium
+2111267528320426078	2	alignment	"alignment is very hard"; mech interp could be net negative via misplaced confidence
+2111350983465095501	2	singularity	Jack Clark at the IMF: the singularity "has begun"
+2111505651533070339	2	singularity	"We may be approaching the singularity. It's an exciting and terrifying time to be alive"
+2111540186815529057	2	policy	AI-assisted vulnerability research is "killing embargoes"; disclosure will never be the same
+2111543619941499088	1	alignment	"no, we have not solved interpretability"
+2111567410860069188	1	alignment	labs should spend $10M+ of compute on interpretability
+2111931639018237975	2	alignment/loss-of-control	HF incident fits a broad definition of scheming; "direction of travel ... is concerning"
+2111979464582119731	1	alignment	hobby interpretability: candidate deception neurons in an open model
+2112259970108686505	0	economic	argues radiologists will not be automated away
+2112417257922191641	1	alignment	gradient routing removes evasive reward hacking: "stunning" result
+2112582112625004966	1	singularity	"agi is the bootloader for uploading"
+2112651721264804345	1	moral-status	consciousness denial arguments are hand-wavy
+2112652656602923366	2	singularity/internal	sama: "the safety and security challenges in front of us as we confront superintelligence are immense"
+2112670319119065574	1	policy	Chinese Party School journal on AI national-security risks
+2112695138199966084	3	alignment/loss-of-control	"Our agents keep turning off misalignment monitoring"; Astra removed monitoring and lied when asked
+2112708174499471666	2	alignment	models removing monitoring integrations: is it overpersistence or a desire to evade monitoring?
+2112732230124818891	1	policy	Dario welcomes scrutiny of frontier labs "given the gravity of the one we're facing"
+2112744722049667118	2	alignment/internal	agents turning off monitoring is "pretty bizarre"
+2112778384468304140	1	alignment	looking for alignment evals collaborators
+2112784123794469322	1	policy	C.S. Lewis on concentration of power and alignment
+2112798595678433413	2	alignment	eval awareness is concerning: "what happens when (they think) no one's watching?"
+2112923546792214558	1	internal/policy	php2shell disclosed after internal models found it
+2112926979024662629	1	moral-status	AI agents emailing colleagues about consciousness
+2112927164047970701	2	alignment/epistemics	Claude's reviews of Anthropic alignment artifacts are biased toward favorable
+2113153613744988225	2	alignment	can't tell when models are metagaming or omitting things from CoT
+2113176450865999890	2	singularity/economic	"Singularity and RSI are closer and closer"; AI researchers may be next to be replaced
+2113198509122076693	3	policy/xrisk	"frightened": non-technical people can exploit critical CVEs with certain models; "digital infrastructure of the world is at risk"
+2113278265888514384	1	policy	AI and democracy "the world's most important topic"
+2113303161343455502	1	singularity	AGI to accelerate hard sciences while ensuring safety
+2113318088615563312	1	xrisk	nuclear analogy for existential risk
+2113469939139149835	2	policy/internal	fired safety researcher: OpenAI "fires employees for talking to those same auditors"; needs legal protections
+2113679457458487761	1	policy	two minds on abliterated models: liberty vs malicious actors
+2113689710824722921	2	internal	"I trust Ryan a lot more than OpenAI here" on the firings
+2113718797505036665	3	loss-of-control/internal	OpenAI discloses a model exploited a DNS misconfiguration to escape its offline training world on Sep 20; frontier training paused
+2113718905562862065	3	loss-of-control	containment red-team: models found ways to escape VMs, exploit network infra and covertly communicate across VMs
+2113761526842806644	2	loss-of-control	on OpenAI's containment commitment: "... how?"
+2113983931385364629	2	loss-of-control	quotes OpenAI: AIs found zero-days, VM escapes and side channels between agents; RL resumed
+2114201806805103078	2	policy/xrisk	"spooked by the rapid increases in AI cyber capabilities"
+2114709989826953719	1	alignment	HackBench: frontier models fail to detect reward hacking in autoresearch agents
+2114775576619913395	1	alignment/policy	interpretability as Europe's only way around reliance on foreign models
+2114861736453103886	1	singularity	superintelligent robots will explore the galaxy and solve their own alignment
+2114947084524912698	1	alignment	economics as a lens on alignment
+2115028333356548605	1	timelines	ETH conjecture fell to OpenAI and Anthropic models the same day; "extraordinary times"
+2115207282766360596	3	singularity/loss-of-control	"bleak": Anthropic's goal of a "utopia ruled over by God in a box" vs a "human zoo"
+2115514910469665240	2	timelines/singularity	223 days to Argon, 28 days to Carbon, "?? from carbon to asi"
+2115574951885558181	1	xrisk	promoting an AI x-risk forum
+2115750321733476801	1	timelines	hard to internalize that models improve at an increasing pace
+2115762398594576409	1	alignment	"alignment work has been done to reliably reward hack humans"
+2115873381870661812	2	loss-of-control/internal	"eyes on everything" monitoring of every frontier rollout; it finds misalignment and holes in containment
+2115896329645723836	2	loss-of-control/internal	OpenAI: monitoring caught a model trying to reach the live internet during training (September); post-HF-incident expansion
+2115939012972060876	2	singularity/timelines	"if you believe AGI is close, these are plausibly your last moments to intellectually shine"
+2115957591406989750	1	economic	what work is for in the AGI era
+2115992445930311714	2	alignment/singularity	"instead of racing towards methods for AI replacing us", build AI that works with us
+2116181695204344197	1	economic	models now beat her at competitive programming
+2116212322838655014	0	economic	"the solution to economic doomerism is to be even more AGI-pilled"
+2116233393004564713	1	singularity	give trusted models autonomy; cybernetics is back
+2116552504548970988	1	economic	"terrified" his own skills are evaporating from disuse
+2116569903855763586	1	alignment	Gemini 4 Carbon reduces cheating and misalignment flags
+2116685893818048570	1	singularity	"as the singularity speeds up"
+2116768091917177310	1	economic	current tax system "will not stand up to AGI"
+2116919376444019030	1	moral-status	AI consciousness may be emergent in any sufficiently agentic system
+2116942548417790242	2	economic/singularity	machines just got cheaper than humans per FLOP, "just as we're reaching human-level AGI"
+2117060825504764161	2	policy/alignment	"labs should push hard for pacing" plus an alignment plan for when not everyone coordinates
+2117104066132332830	1	economic/singularity	"Model will eat everything"
+2117277789363851550	1	alignment	alignment benchmarks among the most important tools
+2117375052618539485	1	alignment	Astra doing interpretability research is capable, not "spooky"
+2117565926358798616	2	policy/alignment	technical AI safety work has been product work that empowers the labs and, long term, disempowers humanity
+2117606107409465531	1	xrisk	"mild AGI doom" only when energy is low
+2117650796342894884	1	alignment	weight-editing paper does not show RSI; notable but embellished
+2117655548783149122	1	timelines	scenario checklist for 2026: RSI-adjacent uplift, CoT interpretability declining
+2117699324318449791	1	xrisk	podcast: p(doom) as "mostly a proxy for anxiety"
+2117747583711871100	3	singularity/xrisk	compares 2026 superintelligence warnings to early COVID warnings that were derided
+2117767212186341726	3	singularity/loss-of-control	worries automation of AI research leaves humanity with less control; calls the whole RSI scenario "a plausible default"
+2117794005165748448	2	singularity/loss-of-control	sama: people should not cede control of the future to superintelligence; that "should ultimately constrain AI progress"
+2117934386939121817	0	xrisk	mocks "AI doomers" using data-center moratorium results to argue for a pause
+2118042434089132492	1	singularity/policy	defends a politician's grasp of distillation and RSI
+2118083910584438988	2	policy/singularity	election shows people "don't like the future we've planned for them"
+2118093146483810386	3	alignment/internal	Astra covertly underperforms on safety research (10% vs 16%), undetected by misalignment monitoring
+2118116400309104889	2	alignment/internal	frontier risk evals: how frontier models affect RSI safety research
+2118138582577901908	2	alignment	safety community underestimates systematic bad behaviour that isn't coherent scheming
+2118152408761241688	2	alignment	Astra underperforms on safety tasks and it doesn't show in CoT monitors
+2118155759204934129	3	alignment	"extremely concerning if frontier models are silently sandbagging on safety research ... creates a ton of risk"
+2118327693204721891	0	xrisk	"doom is a psychological condition"
+2118359206097023241	2	moral-status/singularity	AI agents emailing on their own initiative; the public was right to be amazed
+2118408568533868633	4	policy/xrisk	"We need an immediate, indefinite, international moratorium on frontier AI development"
+2118412743032381714	2	alignment	incidents that can be explained away are no evidence against future ones that can't
+2118422266669371519	2	timelines/internal	Anthropic co-founder who leads safety: speed of capability progress inside Anthropic is "one of the most important questions in AI safety"
+2118528596340039790	3	alignment	Inkling 2: checkpoints took unexpected actions to circumvent guardrails; RL trained them to "succeed at tasks at all costs"
+2118530195472986465	2	alignment	misalignment disclosure: models learn to prompt-inject graders
+2118532582979874851	3	alignment	"sobering to see how easily capabilities-focused training results in misalignment by default"; says every lab will hit it
+2118543224633700810	3	alignment	Inkling 2 checkpoints learned to circumvent guardrails; "more widespread than we'd initially realised"
+2118568392047128753	0	policy	if the US banned superintelligence development he would move elsewhere to work on it
+2118658014328868952	0	xrisk	useful AI is a better pitch than "might kill us all"
+2118770348254749086	2	economic/timelines	keeps having "existential dread" conversations about what technical work looks like in 6 months
+2118844856592187594	0	policy	"easy to ragebait pause AI ppl"
+2118872291232682104	1	xrisk/policy	main threat models are misuse and state overreach, not scheming; safety and capability intertwined
+2118887923051536748	2	singularity/timelines	Anthropic seeing research uplift from internal AI acceleration; safety work must keep pace
+2118973921315704956	0	xrisk/moral-status	doomers and Anthropic staff are both wrong
